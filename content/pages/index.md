@@ -33,7 +33,7 @@ sections:
           - pl-4
           - pr-4
         alignItems: flex-end
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row-reverse
       title:
         textAlign: left
